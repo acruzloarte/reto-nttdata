@@ -45,12 +45,6 @@ cd axelcruzretonttdata
 ./mvnw spring-boot:run
 ```
 
-El servicio estará disponible en:
-
-```
-http://localhost:8080/users
-```
-
 ---
 ## 📲 Endpoint disponible
 
